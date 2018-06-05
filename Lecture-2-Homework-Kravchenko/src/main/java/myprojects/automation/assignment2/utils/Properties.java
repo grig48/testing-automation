@@ -12,7 +12,7 @@ public class Properties {
 
     /**
      *
-     * @return Website frontend.
+     * @return Website frontend.hhh
      */
     public static String getBaseUrl() {
         return System.getProperty(EnvironmentVariables.BASE_URL.toString(), DEFAULT_BASE_URL);
