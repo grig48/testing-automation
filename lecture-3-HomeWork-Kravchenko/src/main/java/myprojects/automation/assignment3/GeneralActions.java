@@ -184,14 +184,5 @@ public class GeneralActions {
             System.out.println();
         }
     }
-    /**
-     * Waits until page loader disappears from the page
-     */
-    public void waitForContentLoad() {
-        // TODO implement generic method to wait until page content is loaded
-
-        // wait.until(...);
-        // ...
-    }
 
 }
